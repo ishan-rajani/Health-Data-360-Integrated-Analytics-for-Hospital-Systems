@@ -1,0 +1,13 @@
+# Tableau temporary files
+*.twb~
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+
+# Private or local data files
+data/private_data.csv

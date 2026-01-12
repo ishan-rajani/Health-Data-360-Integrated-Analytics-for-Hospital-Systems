@@ -1,0 +1,2 @@
+# Health-Data-360-Integrated-Analytics-for-Hospital-Systems
+Health Data 360 is a Tableau healthcare dashboard that brings clinical, operational, and billing data into one view to support hospital decision making. It helps answer key questions:  • Where are readmissions increasing • How does length of stay vary • Where are patient flow or data quality issues  Data is privacy safe and reflects real scenarios.

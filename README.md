@@ -51,6 +51,7 @@ https://public.tableau.com/app/profile/ishan.rajani1037/viz/Book1_17683349722650
 
 ## Screenshot
 ![Health Data 360 Dashboard](health-data-360-dashboard.png)
+*Static preview of the interactive Tableau dashboard*
 
 ## Why This Project
 This project was created to demonstrate readiness for healthcare data analyst roles by showcasing:

@@ -50,7 +50,7 @@ View the interactive dashboard here:
 PASTE YOUR TABLEAU PUBLIC LINK HERE
 
 ## Screenshot
-Add the exported dashboard image below.
+![Health Data 360 Dashboard](health-data-360-dashboard.png)
 
 ## Why This Project
 This project was created to demonstrate readiness for healthcare data analyst roles by showcasing:

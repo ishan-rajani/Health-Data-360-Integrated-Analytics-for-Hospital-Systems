@@ -47,7 +47,7 @@ All data used in this project is privacy safe and created to simulate real healt
 
 ## Live Dashboard
 View the interactive dashboard here:
-PASTE YOUR TABLEAU PUBLIC LINK HERE
+https://public.tableau.com/app/profile/ishan.rajani1037/viz/Book1_17683349722650/Dashboard1?publish=yes
 
 ## Screenshot
 ![Health Data 360 Dashboard](health-data-360-dashboard.png)
